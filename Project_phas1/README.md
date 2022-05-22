@@ -144,7 +144,8 @@ plt.title('Average Net profit by Studio', fontsize=16);
 ```
 
 
-![directors](https://user-images.githubusercontent.com/104420862/169698520-ba36e7d1-9b21-4f3b-a616-7072c1e4ecb6.png)
+
+![output](https://user-images.githubusercontent.com/104420862/169716877-5ffc5fd7-56f6-486c-97cc-b082cfcbf879.png)
 
 
 From the above analysis there is difference between the net profit and profit.we could see warner Bross havee hihg much net profits compared to the others which is followed by the UTV nd FD. I recommend that Micrososft should follow the best practises employed by the best movies studios.
